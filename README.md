@@ -2,7 +2,7 @@
 This project is conducted as part of the [Research Project](https://github.com/TU-Delft-CSE/Research-Project) (2023 Q4) of TU Delft.
 
 ## Acknowledgement
-This repoistory makes use of and adapts the implementations for the [windfarm environment](https://github.com/AlgTUDelft/wind-farm-env) [1] and [DGN algorithm](https://github.com/jiechuanjiang/pytorch_DGN) [2].
+This repository makes use of and adapts the implementations for the [windfarm environment](https://github.com/AlgTUDelft/wind-farm-env) [1] and [DGN algorithm](https://github.com/jiechuanjiang/pytorch_DGN) [2].
 
 
 ## References
