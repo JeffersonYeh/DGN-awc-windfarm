@@ -1,5 +1,5 @@
 # DGN-awc-windfarm
-This project is conducted as part of the [Research Project](https://github.com/TU-Delft-CSE/Research-Project) (2023 Q4) of TU Delft.
+This bachelor thesis project ([paper](https://repository.tudelft.nl/record/uuid:1ffc2548-8ef1-45b7-972f-fbdb80dfd17c) and [poster](https://cse3000-research-project.github.io/static/d152c998f4e718e271a96ec69c21a094/poster.pdf)) is conducted as part of the [Research Project](https://github.com/TU-Delft-CSE/Research-Project) (2023 Q4) of TU Delft . 
 
 ## Acknowledgement
 This repository makes use of and adapts the implementations for the [windfarm environment](https://github.com/AlgTUDelft/wind-farm-env) [1] and [DGN algorithm](https://github.com/jiechuanjiang/pytorch_DGN) [2].
